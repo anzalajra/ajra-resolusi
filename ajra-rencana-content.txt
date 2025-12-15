@@ -6,7 +6,8 @@ RENCANA KONTEN AJRA
   *Makan cilok
 - Main ke Lego Land
 - Tutorial pajak
-*Coretax
+  *Coretax
+  *PPH 21
 - Cara membuat CV
 - Vlog ke Jepang
 - Ke China
